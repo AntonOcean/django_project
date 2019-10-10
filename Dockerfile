@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 8000
 
-RUN gunicorn -b 0.0.0.0:8000 django_project.wsgi
+CMD gunicorn -b 0.0.0.0:8000 django_project.wsgi
