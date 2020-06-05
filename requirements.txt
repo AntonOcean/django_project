@@ -1,4 +1,4 @@
-Django==2.2.6
+Django==2.2.13
 django-prometheus==1.1.0
 gunicorn==19.9.0
 prometheus-client==0.7.1
