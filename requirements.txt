@@ -3,4 +3,4 @@ django-prometheus==1.1.0
 gunicorn==19.9.0
 prometheus-client==0.7.1
 pytz==2019.3
-sqlparse==0.3.0
+sqlparse==0.4.4
